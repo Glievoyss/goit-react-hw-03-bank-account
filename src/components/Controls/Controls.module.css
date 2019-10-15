@@ -1,0 +1,20 @@
+.controls {
+  background-color: rgb(71, 71, 167);
+  padding: 30px;
+}
+
+input {
+  margin-right: 10px;
+}
+
+button {
+  width: 100px;
+  color: white;
+  margin-right: 10px;
+  background-color: rgb(96, 136, 230);
+  border-style: none;
+  border-radius: 3px;
+}
+button:hover {
+  background-color: rgb(52, 164, 42);
+}
